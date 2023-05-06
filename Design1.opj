@@ -14,6 +14,10 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    ("HEADER 20"
+      (FullPartName "HEADER 20.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
     ("8 HEADER"
       (FullPartName "8 HEADER.Normal")
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
@@ -107,10 +111,6 @@
     (USB_mrico
       (FullPartName "USB_mrico.Normal")
       (LibraryName "D:\STM32\MYLIB.OLB")
-      (DeviceIndex "0"))
-    (STM32F103C8T6
-      (FullPartName "STM32F103C8T6.Normal")
-      (LibraryName "D:\STM32\MYLIB.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
@@ -120,7 +120,7 @@
       (Path "Design Resources" ".\design1.dsn" "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\mylib.olb")
-      (Select "Design Resources" "Library" ".\mylib.olb" "LB1940T"))
+      (Select "Design Resources" "Library" ".\mylib.olb" "USB_mrico"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -130,12 +130,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 2288 52 731")
-        (Scroll "579 524")
-        (Zoom "168")
+        (Placement "44 2 3 -1 -1 -8 -31 52 2328 52 512")
+        (Scroll "-23 -4")
+        (Zoom "53")
         (Occurrence "/"))
-      (Path "D:\STM32\DESIGN1.DSN")
+      (Path "C:\USERS\PIZZA\DESKTOP\STM32PCB\DESIGN1.DSN")
       (Schematic "SCHEMATIC1")
       (Page "STM32F103C8T6")))
-  (MPSSessionName "bingxushi")
+  (MPSSessionName "Pizza")
   (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.6\tools\capture\library"))

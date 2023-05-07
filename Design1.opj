@@ -120,7 +120,7 @@
       (Path "Design Resources" ".\design1.dsn" "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\mylib.olb")
-      (Select "Design Resources" "Library" ".\mylib.olb" "USB_mrico"))
+      (Select "Design Resources" ".\design1.dsn" "SCHEMATIC1" "STM32F103C8T6"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -130,12 +130,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 2328 52 512")
-        (Scroll "-23 -4")
-        (Zoom "53")
+        (Placement "44 2 3 -1 -1 -8 -31 52 2227 52 742")
+        (Scroll "-400 -7")
+        (Zoom "84")
         (Occurrence "/"))
-      (Path "C:\USERS\PIZZA\DESKTOP\STM32PCB\DESIGN1.DSN")
+      (Path "D:\STM32\DESIGN1.DSN")
       (Schematic "SCHEMATIC1")
       (Page "STM32F103C8T6")))
-  (MPSSessionName "Pizza")
+  (MPSSessionName "bingxushi")
   (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.6\tools\capture\library"))

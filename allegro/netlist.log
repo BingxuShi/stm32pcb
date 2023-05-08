@@ -1,0 +1,14 @@
+{ Using PSTWRITER 16.6.0 d001May-08-2023 at 18:32:40 }
+
+#1 WARNING(ORCAP-36006): Part Name "SW MAG-SPST/SM_SW_SW MAG-SPST/SM" is renamed to "SW MAG-SPST/SM_SW_SW MAG-SPST/S".
+#2 WARNING(ORCAP-36006): Part Name "STM32F103C8T6_QFN48_STM32F103C8T6" is renamed to "STM32F103C8T6_QFN48_STM32F103C8".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\PIZZA\DESKTOP\STM32PCB\allegro/pstchip.dat
+
+Loading... C:\USERS\PIZZA\DESKTOP\STM32PCB\allegro/pstchip.dat
+
+Loading... C:\USERS\PIZZA\DESKTOP\STM32PCB\allegro/pstxprt.dat
+
+Loading... C:\USERS\PIZZA\DESKTOP\STM32PCB\allegro/pstxnet.dat
+packaging the design view...

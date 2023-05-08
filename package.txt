@@ -1,0 +1,11 @@
+BT1 con2r0_2p
+
+0.1uf c0603
+
+100uf CD4
+
+usb_mricor
+
+beep speaker_3mm
+
+PCB Footprint

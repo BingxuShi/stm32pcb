@@ -1,0 +1,15 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Wed May 10 18:17:42 2023
+\t (00:00:00)         Host=DESKTOP-RFK85BK User=Pizza Pid=824 CPUs=8
+\t (00:00:00) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: C:/Users/Pizza/Desktop/stm32pcb/pcb_design/Design1.brd
+\i (00:00:03) trapsize 4980
+\i (00:00:03) trapsize 4876
+\i (00:00:03) trapsize 4997
+\i (00:00:03) trapsize 5048
+\i (00:00:03) trapsize 6297
+\i (00:00:03) trapsize 6297
+\i (00:00:04) generaledit 
+\i (00:00:05) exit 
+\t (00:00:05)     Journal end - Wed May 10 18:17:47 2023

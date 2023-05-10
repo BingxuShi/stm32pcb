@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001May-10-2023 at 18:14:34}
+{ Using PSTWRITER 16.6.0 d001May-08-2023 at 18:32:41}
 primitive 'BATTERY_CON2R0_2P_3.6V';
   pin
     '+':
@@ -28,36 +28,6 @@ primitive 'CAP POL_CD4_100UF/16V';
     PART_NAME='CAP POL';
     JEDEC_TYPE='CD4';
     VALUE='100uf/16V';
-  end_body;
-end_primitive;
-primitive 'CAP NP_C0603_20PF';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CAP NP';
-    JEDEC_TYPE='c0603';
-    VALUE='20pF';
-  end_body;
-end_primitive;
-primitive 'CAP NP_C0603_1UF/16V';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CAP NP';
-    JEDEC_TYPE='c0603';
-    VALUE='1uf/16V';
   end_body;
 end_primitive;
 primitive 'CAP NP_C0603_0.1UF/16V';
@@ -90,7 +60,7 @@ primitive 'CAP NP_C0805_10UF/16V';
     VALUE='10uf/16V';
   end_body;
 end_primitive;
-primitive 'CAP POL_CD4_10UF/16V';
+primitive 'CAP NP_C0603_20PF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -100,9 +70,24 @@ primitive 'CAP POL_CD4_10UF/16V';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='CAP POL';
-    JEDEC_TYPE='CD4';
-    VALUE='10uf/16V';
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='c0603';
+    VALUE='20pF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_C0603_1UF/16V';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='c0603';
+    VALUE='1uf/16V';
   end_body;
 end_primitive;
 primitive 'SSL-LX4673_L0603_SSL-LX4673';
@@ -330,21 +315,21 @@ primitive 'SPEAKER_SPEAKER_3MM_BEEP';
     VALUE='BEEP';
   end_body;
 end_primitive;
-primitive '2N2222_0_SOT23_2N2222';
+primitive '2N2222_SOT23_5_2N2222';
   pin
     'COLLECTOR':
       PIN_NUMBER='(3)';
       PINUSE='UNSPEC';
     'EMITTER':
-      PIN_NUMBER='(2)';
+      PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
     'BASE':
-      PIN_NUMBER='(1)';
+      PIN_NUMBER='(2)';
       INPUT_LOAD='(*)';
   end_pin;
   body
-    PART_NAME='2N2222_0';
-    JEDEC_TYPE='sot23';
+    PART_NAME='2N2222';
+    JEDEC_TYPE='sot23_5';
     VALUE='2N2222';
   end_body;
 end_primitive;
@@ -421,21 +406,6 @@ primitive 'R_R0603_1K';
     PART_NAME='R';
     JEDEC_TYPE='r0603';
     VALUE='1k';
-  end_body;
-end_primitive;
-primitive 'R_R0603_51';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='r0603';
-    VALUE='51';
   end_body;
 end_primitive;
 primitive 'R_R0603_4.7K';
@@ -522,22 +492,28 @@ primitive 'USB_MRICO_MRICO_5PIN_USB_MRICO';
     VALUE='USB_mrico';
   end_body;
 end_primitive;
-primitive 'AMS1117-3_3_SOT-223_AMS1117-3_3';
+primitive 'BL9198-33_SOT23_5_BL9198-33';
   pin
-    'IN':
+    'VIN':
       PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
-    'OUT':
+    'GND':
       PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
-    'GND':
+    'EN':
       PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'VOUT':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'NC':
+      PIN_NUMBER='(5)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='AMS1117-3_3';
-    JEDEC_TYPE='SOT-223';
-    VALUE='AMS1117-3_3';
+    PART_NAME='BL9198-33';
+    JEDEC_TYPE='SOT23_5';
+    VALUE='BL9198-33';
   end_body;
 end_primitive;
 primitive 'STM32F103C8T6_QFN48_STM32F103C8';

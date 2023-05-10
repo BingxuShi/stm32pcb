@@ -88,6 +88,10 @@
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (AMS1117-3_3
+      (FullPartName "AMS1117-3_3.Normal")
+      (LibraryName "C:\USERS\PIZZA\DESKTOP\STM32PCB\MYLIB.OLB")
+      (DeviceIndex "0"))
     ("HEADER 20"
       (FullPartName "HEADER 20.Normal")
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
@@ -181,10 +185,6 @@
       (DeviceIndex "0"))
     (GND_POWER
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (USB_mrico
-      (FullPartName "USB_mrico.Normal")
-      (LibraryName "D:\STM32\MYLIB.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
@@ -194,7 +194,8 @@
       (Path "Design Resources" ".\design1.dsn" "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\mylib.olb")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\design1.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -202,17 +203,10 @@
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 640"))
       (Tab 0))
     (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1080 156 607"))
-      (Path "c:\users\pizza\desktop\stm32pcb\design1.drc")
-      (Scroll "9")
-      (Select "43 57 43 60"))
-    (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1460 52 517")
-        (Scroll "382 246")
+        (Scroll "0 135")
         (Zoom "106")
         (Occurrence "/"))
       (Path "C:\USERS\PIZZA\DESKTOP\STM32PCB\DESIGN1.DSN")

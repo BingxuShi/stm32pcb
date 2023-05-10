@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001May-10-2023 at 18:14:34 }
+{ Using PSTWRITER 16.6.0 d001May-09-2023 at 14:36:17 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='DESIGN1';
@@ -438,12 +438,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- Q1 '2N2222_0_SOT23_2N2222':;
+ Q1 '2N2222_SOT23_5_2N2222':;
 
 SECTION_NUMBER 1
- '@DESIGN1.SCHEMATIC1(SCH_1):INS20725@DESIGN1.2N2222_0.NORMAL(CHIPS)':
- C_PATH='@design1.schematic1(sch_1):ins20725@design1.\2n2222_0.normal\(chips)',
- P_PATH='@design1.schematic1(sch_1):page1_ins20725@design1.\2n2222_0.normal\(chips)',
+ '@DESIGN1.SCHEMATIC1(SCH_1):INS20725@TRANSISTOR.2N2222.NORMAL(CHIPS)':
+ C_PATH='@design1.schematic1(sch_1):ins20725@transistor.\2n2222.normal\(chips)',
+ P_PATH='@design1.schematic1(sch_1):page1_ins20725@transistor.\2n2222.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

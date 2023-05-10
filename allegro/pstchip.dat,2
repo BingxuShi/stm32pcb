@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001May-10-2023 at 18:14:34}
+{ Using PSTWRITER 16.6.0 d001May-09-2023 at 14:36:17}
 primitive 'BATTERY_CON2R0_2P_3.6V';
   pin
     '+':
@@ -330,21 +330,21 @@ primitive 'SPEAKER_SPEAKER_3MM_BEEP';
     VALUE='BEEP';
   end_body;
 end_primitive;
-primitive '2N2222_0_SOT23_2N2222';
+primitive '2N2222_SOT23_5_2N2222';
   pin
     'COLLECTOR':
       PIN_NUMBER='(3)';
       PINUSE='UNSPEC';
     'EMITTER':
-      PIN_NUMBER='(2)';
+      PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
     'BASE':
-      PIN_NUMBER='(1)';
+      PIN_NUMBER='(2)';
       INPUT_LOAD='(*)';
   end_pin;
   body
-    PART_NAME='2N2222_0';
-    JEDEC_TYPE='sot23';
+    PART_NAME='2N2222';
+    JEDEC_TYPE='sot23_5';
     VALUE='2N2222';
   end_body;
 end_primitive;

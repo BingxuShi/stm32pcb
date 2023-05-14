@@ -1,0 +1,35 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Thu May 11 18:19:00 2023
+\t (00:00:01)         Host=DESKTOP-RFK85BK User=Pizza Pid=12420 CPUs=8
+\t (00:00:01) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Database opened: C:/Users/Pizza/Desktop/stm32pcb/stm32f103_lib/F1206.dra
+\i (00:00:04) trapsize 1867
+\i (00:00:04) trapsize 1828
+\i (00:00:04) trapsize 1874
+\i (00:00:04) trapsize 1626
+\i (00:00:04) trapsize 1626
+\i (00:00:04) generaledit 
+\i (00:00:07) enved 
+\i (00:00:08) generaledit 
+\i (00:00:11) setwindow form.prfedit
+\i (00:00:11) FORM prfedit treelist  Library Paths 
+\i (00:00:12) FORM prfedit devpath  
+\i (00:00:29) FORM prfedit cancel  
+\i (00:02:26) setwindow pcb
+\i (00:02:26) enved 
+\i (00:02:26) generaledit 
+\i (00:02:29) setwindow form.prfedit
+\i (00:02:29) FORM prfedit devpath  
+\i (00:02:40) FORM prfedit interfacepath  
+\i (00:02:42) FORM prfedit padpath  
+\i (00:02:51) FORM prfedit padpath  
+\i (00:02:52) FORM prfedit parampath  
+\i (00:02:55) FORM prfedit techpath  
+\i (00:02:57) FORM prfedit psmpath  
+\i (00:03:06) FORM prfedit done  
+\i (00:03:07) setwindow pcb
+\i (00:03:07) pick grid -9.5477 -3.3176
+\t (00:03:07) last pick:  -9.5250  -3.3020
+\i (00:03:11) exit 
+\t (00:03:11)     Journal end - Thu May 11 18:22:10 2023

@@ -1,0 +1,23 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Thu May 11 18:22:24 2023
+\t (00:00:01)         Host=DESKTOP-RFK85BK User=Pizza Pid=1384 CPUs=8
+\t (00:00:01) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Database opened: C:/Users/Pizza/Desktop/stm32pcb/stm32f103_lib/F1206.dra
+\i (00:00:04) trapsize 1867
+\i (00:00:04) trapsize 1828
+\i (00:00:04) trapsize 1874
+\i (00:00:04) trapsize 1626
+\i (00:00:04) trapsize 1626
+\i (00:00:04) generaledit 
+\i (00:00:12) pick grid -13.9384 -2.6997
+\t (00:00:12) last pick:  -13.9700  -2.6670
+\i (00:00:13) trapsize 1627
+\i (00:00:13) trapsize 1824
+\i (00:00:14) trapsize 1842
+\i (00:00:14) trapsize 1706
+\i (00:00:14) trapsize 1688
+\i (00:00:15) trapsize 1687
+\i (00:00:17) new 
+\i (00:00:37) newdrawfillin "r0603.dra" "Package Symbol"
+\t (00:00:37)     Journal end - Thu May 11 18:23:00 2023

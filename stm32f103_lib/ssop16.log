@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ssop16.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu May 11 15:40:39 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Pizza/Desktop/stm32pcb/stm32f103_lib
+    Name      = ssop16.psm
+    User      = Pizza
+    Machine   = DESKTOP-RFK85BK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

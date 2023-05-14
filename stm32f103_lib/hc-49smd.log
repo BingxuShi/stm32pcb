@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : HC-49SMD.dra                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu May 11 16:00:15 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Pizza/Desktop/stm32pcb/stm32f103_lib
+    Name      = hc-49smd.psm
+    User      = Pizza
+    Machine   = DESKTOP-RFK85BK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

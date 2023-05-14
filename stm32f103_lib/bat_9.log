@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : bat_9.dra                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun May 14 23:22:56 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/stm32pcb/stm32f103_lib
+    Name      = bat_9.psm
+    User      = bingxushi
+    Machine   = BINGBINGXUSHI
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

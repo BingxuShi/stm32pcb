@@ -1,0 +1,13 @@
+(DEVICE FILE: con2r0_4p)
+
+PACKAGE con2r0_4p
+CLASS DISCRETE
+PINCOUNT 4
+
+PINORDER con2r0_4p  1 2 3 4
+
+PINSWAP con2r0_4p  1 2 3 4
+
+FUNCTION con2r0_4p con2r0_4p  1 2 3 4
+
+END

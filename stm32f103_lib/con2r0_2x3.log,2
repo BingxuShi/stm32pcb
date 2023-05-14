@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : con2r0_2x3.dra                                )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun May 14 19:14:00 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/stm32pcb/stm32f103_lib
+    Name      = con2r0_2x3.psm
+    User      = bingxushi
+    Machine   = BINGBINGXUSHI
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

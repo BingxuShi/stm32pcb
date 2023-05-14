@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : YSX1610.dra                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun May 14 22:44:25 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/stm32pcb/stm32f103_lib
+    Name      = ysx1610.psm
+    User      = bingxushi
+    Machine   = BINGBINGXUSHI
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

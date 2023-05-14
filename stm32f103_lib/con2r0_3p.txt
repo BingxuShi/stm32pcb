@@ -1,0 +1,13 @@
+(DEVICE FILE: con2r0_3p)
+
+PACKAGE con2r0_3p
+CLASS DISCRETE
+PINCOUNT 3
+
+PINORDER con2r0_3p  1 2 3
+
+PINSWAP con2r0_3p  1 2 3
+
+FUNCTION con2r0_3p con2r0_3p  1 2 3
+
+END

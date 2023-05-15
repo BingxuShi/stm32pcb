@@ -1,0 +1,40 @@
+\t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Mon May 15 16:00:39 2023
+\t (00:00:00)         Host=DESKTOP-RFK85BK User=Pizza Pid=7276 CPUs=8
+\t (00:00:00) 
+\i (00:00:03) setwindow form.padedit
+\i (00:00:03) FORM padedit layers  
+\i (00:00:04) FORM padedit single YES 
+\i (00:00:06) FORM padedit grid row begin_layer 
+\i (00:00:08) FORM padedit geometry Rectangle 
+\i (00:00:12) FORM padedit parameters  
+\i (00:00:13) FORM padedit units Millimeter 
+\i (00:00:14) fillin yes 
+\w (00:00:14) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:15) FORM padedit layers  
+\i (00:03:08) FORM padedit grid row begin_layer 
+\i (00:03:11) FORM padedit width 3 
+\i (00:03:15) FORM padedit height 2 
+\i (00:03:15) FORM padedit crossbox YES 
+\i (00:03:20) FORM padedit grid rpopup begin_layer Copy 
+\i (00:03:21) FORM padedit grid row pastemask_top 
+\i (00:03:25) FORM padedit grid row soldermask_bottom 
+\i (00:03:27) FORM padedit grid row pastemask_top 
+\i (00:03:30) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:03:31) FORM padedit grid row soldermask_top 
+\i (00:03:37) FORM padedit width 3.1 
+\i (00:03:39) FORM padedit geometry Rectangle 
+\i (00:03:43) FORM padedit width 3,¡£1 
+\w (00:03:43) User units conversion failed.
+\i (00:03:52) FORM padedit width 3.10000 
+\i (00:03:55) FORM padedit height 2.1 
+\i (00:03:57) FORM padedit parameters  
+\i (00:04:00) pse_check 
+\i (00:04:02) FORM padedit layers  
+\i (00:04:05) pse_check 
+\i (00:04:13) FORM padedit parameters  
+\i (00:04:13) FORM padedit layers  
+\i (00:04:15) pse_save_as 
+\i (00:04:44) fillin "re3x2.pad"
+\i (00:04:46) pse_exit
+\t (00:04:46)     Journal end - Mon May 15 16:05:25 2023

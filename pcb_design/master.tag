@@ -1,1 +1,1 @@
-Design1.brd
+stm32f103c8t6.brd

@@ -1,0 +1,63 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Mon May 15 18:30:23 2023
+\t (00:00:00)         Host=DESKTOP-RFK85BK User=Pizza Pid=10908 CPUs=8
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: C:/Users/Pizza/Desktop/stm32pcb/stm32f103_lib/MICRO_5PIN.dra
+\t (00:00:00) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:00:00) trapsize 1691
+\i (00:00:00) trapsize 1653
+\i (00:00:00) trapsize 1698
+\i (00:00:00) trapsize 1698
+\i (00:00:00) generaledit 
+\i (00:00:01) zoom in 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom in -1.0967 -1.9287
+\i (00:00:01) trapsize 849
+\i (00:00:01) zoom in 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom in -1.0967 -1.9287
+\i (00:00:01) trapsize 424
+\i (00:00:01) zoom in 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom in -1.0882 -2.0136
+\i (00:00:01) trapsize 212
+\i (00:00:02) zoom out 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom out -1.0839 -2.0220
+\i (00:00:02) trapsize 424
+\i (00:00:02) zoom out 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom out -1.0839 -2.0221
+\i (00:00:02) trapsize 849
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -1.0840 -2.0220
+\i (00:00:03) trapsize 424
+\i (00:00:04) prepopup 2.4045 -1.6909
+\i (00:00:05) pick grid 2.4724 -1.4957
+\t (00:00:05) last pick:  2.5000  -1.5000
+\i (00:00:06) pick grid 2.4809 -1.3514
+\t (00:00:06) last pick:  2.5000  -1.4000
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 2.3876 -2.2342
+\i (00:00:07) trapsize 849
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 2.3875 -2.2341
+\i (00:00:07) trapsize 1698
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 2.3875 -2.2341
+\i (00:00:08) trapsize 849
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 2.3875 -2.2341
+\i (00:00:08) trapsize 424
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 2.3875 -2.2341
+\i (00:00:09) trapsize 849
+\i (00:12:46) exit 
+\t (00:12:47)     Journal end - Mon May 15 18:43:10 2023

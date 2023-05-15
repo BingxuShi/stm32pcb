@@ -1,4 +1,4 @@
-Date and Time : 05/10/23 15:59:30
+Date and Time : 05/15/23 18:40:35
 
 --------------------------------------------------
 Checking Schematic: SCHEMATIC1
@@ -30,6 +30,10 @@ Checking Power Pin Visibility
 
 Checking Normal Convert View Sync  
 INFO(ORCAP-36105): Checking Missing Pin Numbers  
+#1 ERROR(ORCAP-36041): Duplicate Pin Name "G" found on Package USB_mrico_0 , U1 Pin Number 6: SCHEMATIC1, STM32F103C8T6 (175.26, 20.32). Please renumber one of these.
+#2 ERROR(ORCAP-36041): Duplicate Pin Name "G" found on Package USB_mrico_0 , U1 Pin Number 7: SCHEMATIC1, STM32F103C8T6 (175.26, 20.32). Please renumber one of these.
+#3 ERROR(ORCAP-36041): Duplicate Pin Name "G" found on Package USB_mrico_0 , U1 Pin Number 8: SCHEMATIC1, STM32F103C8T6 (175.26, 20.32). Please renumber one of these.
+#4 ERROR(ORCAP-36041): Duplicate Pin Name "G" found on Package USB_mrico_0 , U1 Pin Number 9: SCHEMATIC1, STM32F103C8T6 (175.26, 20.32). Please renumber one of these.
 
 Checking Device with Zero pins  
 INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
@@ -38,7 +42,7 @@ INFO(ORCAP-2211): Check High Speed Properties Syntax
 
 INFO(ORCAP-2212): Check Power Ground Mismatch
 QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U1,G  G  GND_POWER
-                    SCHEMATIC1, STM32F103C8T6  (203.20, 33.02) 
+                    SCHEMATIC1, STM32F103C8T6  (195.58, 33.02) 
 QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U5,VCC  VCC  VCC3R3
                     SCHEMATIC1, STM32F103C8T6  (218.44, 251.46) 
 

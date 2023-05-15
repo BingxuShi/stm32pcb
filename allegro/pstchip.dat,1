@@ -1,6 +1,6 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001May-08-2023 at 18:32:41}
-primitive 'BATTERY_CON2R0_2P_3.6V';
+{ Using PSTWRITER 16.6.0 d001May-15-2023 at 18:21:42}
+primitive 'BATTERY_BAT_9_3.6V';
   pin
     '+':
       PIN_NUMBER='(1)';
@@ -11,11 +11,11 @@ primitive 'BATTERY_CON2R0_2P_3.6V';
   end_pin;
   body
     PART_NAME='BATTERY';
-    JEDEC_TYPE='con2r0_2p';
+    JEDEC_TYPE='bat_9';
     VALUE='3.6V';
   end_body;
 end_primitive;
-primitive 'CAP POL_CD4_100UF/16V';
+primitive 'CAP POL_C7343_100UF/16V';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -26,38 +26,8 @@ primitive 'CAP POL_CD4_100UF/16V';
   end_pin;
   body
     PART_NAME='CAP POL';
-    JEDEC_TYPE='CD4';
+    JEDEC_TYPE='c7343';
     VALUE='100uf/16V';
-  end_body;
-end_primitive;
-primitive 'CAP NP_C0603_0.1UF/16V';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CAP NP';
-    JEDEC_TYPE='c0603';
-    VALUE='0.1uf/16V';
-  end_body;
-end_primitive;
-primitive 'CAP NP_C0805_10UF/16V';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CAP NP';
-    JEDEC_TYPE='c0805';
-    VALUE='10uf/16V';
   end_body;
 end_primitive;
 primitive 'CAP NP_C0603_20PF';
@@ -90,7 +60,52 @@ primitive 'CAP NP_C0603_1UF/16V';
     VALUE='1uf/16V';
   end_body;
 end_primitive;
-primitive 'SSL-LX4673_L0603_SSL-LX4673';
+primitive 'CAP NP_C0603_0.1UF/16V';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='c0603';
+    VALUE='0.1uf/16V';
+  end_body;
+end_primitive;
+primitive 'CAP NP_C0805_10UF/16V';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='c0805';
+    VALUE='10uf/16V';
+  end_body;
+end_primitive;
+primitive 'CAP POL_C7343_10UF/16V';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP POL';
+    JEDEC_TYPE='c7343';
+    VALUE='10uf/16V';
+  end_body;
+end_primitive;
+primitive 'SSL-LX4673_1_L0603_SSL-LX4673';
   pin
     'ANODE':
       PIN_NUMBER='(2)';
@@ -100,27 +115,27 @@ primitive 'SSL-LX4673_L0603_SSL-LX4673';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='SSL-LX4673';
+    PART_NAME='SSL-LX4673_1';
     JEDEC_TYPE='l0603';
     VALUE='SSL-LX4673';
   end_body;
 end_primitive;
-primitive 'BAS21/SOT_L0603_IN4148';
+primitive 'BAS21/SOT_0_L0603_IN4148';
   pin
     'ANODE':
       PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
     'CATHODE':
-      PIN_NUMBER='(3)';
+      PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='BAS21/SOT';
+    PART_NAME='BAS21/SOT_0';
     JEDEC_TYPE='l0603';
     VALUE='IN4148';
   end_body;
 end_primitive;
-primitive 'FUSE_FUSE_FUSE';
+primitive 'FUSE_F1206_FUSE';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -131,7 +146,7 @@ primitive 'FUSE_FUSE_FUSE';
   end_pin;
   body
     PART_NAME='FUSE';
-    JEDEC_TYPE='fuse';
+    JEDEC_TYPE='f1206';
     VALUE='FUSE';
   end_body;
 end_primitive;
@@ -270,6 +285,75 @@ primitive 'HEADER 20_CON2R0_20P_HEADER 20';
     VALUE='HEADER 20';
   end_body;
 end_primitive;
+primitive 'HEADER 20_CON2R0_20P_0_HEADER 2';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    '9':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    '10':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+    '11':
+      PIN_NUMBER='(11)';
+      PINUSE='UNSPEC';
+    '12':
+      PIN_NUMBER='(12)';
+      PINUSE='UNSPEC';
+    '13':
+      PIN_NUMBER='(13)';
+      PINUSE='UNSPEC';
+    '14':
+      PIN_NUMBER='(14)';
+      PINUSE='UNSPEC';
+    '15':
+      PIN_NUMBER='(15)';
+      PINUSE='UNSPEC';
+    '16':
+      PIN_NUMBER='(16)';
+      PINUSE='UNSPEC';
+    '17':
+      PIN_NUMBER='(17)';
+      PINUSE='UNSPEC';
+    '18':
+      PIN_NUMBER='(18)';
+      PINUSE='UNSPEC';
+    '19':
+      PIN_NUMBER='(19)';
+      PINUSE='UNSPEC';
+    '20':
+      PIN_NUMBER='(20)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HEADER 20';
+    JEDEC_TYPE='con2r0_20p_0';
+    VALUE='HEADER 20';
+  end_body;
+end_primitive;
 primitive 'INDUCTOR_L0805_10@100MHZ';
   pin
     '1':
@@ -315,21 +399,21 @@ primitive 'SPEAKER_SPEAKER_3MM_BEEP';
     VALUE='BEEP';
   end_body;
 end_primitive;
-primitive '2N2222_SOT23_5_2N2222';
+primitive '2N2222_0_SOT-223_2N2222';
   pin
     'COLLECTOR':
       PIN_NUMBER='(3)';
       PINUSE='UNSPEC';
     'EMITTER':
-      PIN_NUMBER='(1)';
+      PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
     'BASE':
-      PIN_NUMBER='(2)';
+      PIN_NUMBER='(1)';
       INPUT_LOAD='(*)';
   end_pin;
   body
-    PART_NAME='2N2222';
-    JEDEC_TYPE='sot23_5';
+    PART_NAME='2N2222_0';
+    JEDEC_TYPE='SOT-223';
     VALUE='2N2222';
   end_body;
 end_primitive;
@@ -408,6 +492,21 @@ primitive 'R_R0603_1K';
     VALUE='1k';
   end_body;
 end_primitive;
+primitive 'R_R0603_51';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='r0603';
+    VALUE='51';
+  end_body;
+end_primitive;
 primitive 'R_R0603_4.7K';
   pin
     '1':
@@ -468,7 +567,7 @@ primitive 'SW MAG-SPST/SM_SW_SW MAG-SPST/S';
     VALUE='SW MAG-SPST/SM';
   end_body;
 end_primitive;
-primitive 'USB_MRICO_MRICO_5PIN_USB_MRICO';
+primitive 'USB_MRICO_MICRO_5PIN_USB_MRICO';
   pin
     'BBUS':
       PIN_NUMBER='(1)';
@@ -488,35 +587,29 @@ primitive 'USB_MRICO_MRICO_5PIN_USB_MRICO';
   end_pin;
   body
     PART_NAME='USB_mrico';
-    JEDEC_TYPE='mrico_5pin';
+    JEDEC_TYPE='micro_5pin';
     VALUE='USB_mrico';
   end_body;
 end_primitive;
-primitive 'BL9198-33_SOT23_5_BL9198-33';
+primitive 'AMS1117-3_3_SOT223_AMS1117-3_3';
   pin
-    'VIN':
+    'IN':
       PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
-    'GND':
+    'OUT':
       PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
-    'EN':
+    'GND':
       PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'VOUT':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'NC':
-      PIN_NUMBER='(5)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='BL9198-33';
-    JEDEC_TYPE='SOT23_5';
-    VALUE='BL9198-33';
+    PART_NAME='AMS1117-3_3';
+    JEDEC_TYPE='SOT223';
+    VALUE='AMS1117-3_3';
   end_body;
 end_primitive;
-primitive 'STM32F103C8T6_QFN48_STM32F103C8';
+primitive 'STM32F103C8T6_LQFP48_STM32F103C';
   pin
     'VBAT':
       PIN_NUMBER='(1)';
@@ -665,7 +758,7 @@ primitive 'STM32F103C8T6_QFN48_STM32F103C8';
   end_pin;
   body
     PART_NAME='STM32F103C8T6';
-    JEDEC_TYPE='QFN48';
+    JEDEC_TYPE='LQFP48';
     VALUE='STM32F103C8T6';
   end_body;
 end_primitive;
@@ -793,7 +886,7 @@ primitive 'MAX3232_SOP16_MAX3232';
     VALUE='MAX3232';
   end_body;
 end_primitive;
-primitive 'ZTB_US48_32.768KHZ';
+primitive 'ZTB_YSX1610_32.768KHZ';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -804,11 +897,11 @@ primitive 'ZTB_US48_32.768KHZ';
   end_pin;
   body
     PART_NAME='ZTB';
-    JEDEC_TYPE='us48';
+    JEDEC_TYPE='YSX1610';
     VALUE='32.768Khz';
   end_body;
 end_primitive;
-primitive 'ZTB_US48_8MHZ';
+primitive 'ZTB_HC-49SMD_8MHZ';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -819,7 +912,7 @@ primitive 'ZTB_US48_8MHZ';
   end_pin;
   body
     PART_NAME='ZTB';
-    JEDEC_TYPE='us48';
+    JEDEC_TYPE='HC-49SMD';
     VALUE='8Mhz';
   end_body;
 end_primitive;

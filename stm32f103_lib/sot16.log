@@ -2,16 +2,16 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : L0805.dra                                     )
+(    Drawing          : sot16.dra                                     )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Thu May 11 15:48:18 2023                      )
+(    Date/Time        : Mon May 15 16:46:23 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = C:/Users/Pizza/Desktop/stm32pcb
-    Name      = l0805.psm
+    Directory = C:/Users/Pizza/Desktop/stm32pcb/stm32f103_lib
+    Name      = sot16.psm
     User      = Pizza
     Machine   = DESKTOP-RFK85BK
 

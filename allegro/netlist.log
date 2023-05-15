@@ -1,7 +1,14 @@
-{ Using PSTWRITER 16.6.0 d001May-10-2023 at 18:14:33 }
+{ Using PSTWRITER 16.6.0 d001May-15-2023 at 18:43:02 }
 
-#1 WARNING(ORCAP-36006): Part Name "SW MAG-SPST/SM_SW_SW MAG-SPST/SM" is renamed to "SW MAG-SPST/SM_SW_SW MAG-SPST/S".
-#2 WARNING(ORCAP-36006): Part Name "STM32F103C8T6_QFN48_STM32F103C8T6" is renamed to "STM32F103C8T6_QFN48_STM32F103C8".
+#1 WARNING(ORCAP-36006): Part Name "HEADER 20_CON2R0_20P_0_HEADER 20" is renamed to "HEADER 20_CON2R0_20P_0_HEADER 2".
+#2 WARNING(ORCAP-36006): Part Name "SW MAG-SPST/SM_SW_SW MAG-SPST/SM" is renamed to "SW MAG-SPST/SM_SW_SW MAG-SPST/S".
+#3 WARNING(ORCAP-36006): Part Name "USB_MRICO_1_MICRO_5PIN_USB_MRICO" is renamed to "USB_MRICO_1_MICRO_5PIN_USB_MRIC".
+#4 WARNING(ORCAP-36042): Pin "G" is renamed to "G#5" as visible power pin of same name already exists in Package USB_mrico_1 , U1: SCHEMATIC1, STM32F103C8T6 (175.26, 20.32).
+#5 WARNING(ORCAP-36042): Pin "G" is renamed to "G#6" as visible power pin of same name already exists in Package USB_mrico_1 , U1: SCHEMATIC1, STM32F103C8T6 (175.26, 20.32).
+#6 WARNING(ORCAP-36042): Pin "G" is renamed to "G#7" as visible power pin of same name already exists in Package USB_mrico_1 , U1: SCHEMATIC1, STM32F103C8T6 (175.26, 20.32).
+#7 WARNING(ORCAP-36042): Pin "G" is renamed to "G#8" as visible power pin of same name already exists in Package USB_mrico_1 , U1: SCHEMATIC1, STM32F103C8T6 (175.26, 20.32).
+#8 WARNING(ORCAP-36042): Pin "G" is renamed to "G#9" as visible power pin of same name already exists in Package USB_mrico_1 , U1: SCHEMATIC1, STM32F103C8T6 (175.26, 20.32).
+#9 WARNING(ORCAP-36006): Part Name "STM32F103C8T6_LQFP48_STM32F103C8T6" is renamed to "STM32F103C8T6_LQFP48_STM32F103C".
 INFO(ORCAP-36080): Scanning netlist files ...
 
 Loading... C:\USERS\PIZZA\DESKTOP\STM32PCB\allegro/pstchip.dat

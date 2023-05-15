@@ -205,13 +205,20 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1153 26 703")
-        (Scroll "487 414")
-        (Zoom "148")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1198 52 503")
+        (Scroll "1419 1280")
+        (Zoom "176")
         (Occurrence "/"))
-      (Path "D:\STM32PCB\DESIGN1.DSN")
+      (Path "C:\USERS\PIZZA\DESKTOP\STM32PCB\DESIGN1.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "STM32F103C8T6")))
-  (MPSSessionName "bingxushi")
+      (Page "STM32F103C8T6"))
+    (Doc
+      (Type "TextFile")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1302 130 501"))
+      (Path "c:\users\pizza\desktop\stm32pcb\design1.drc")
+      (Scroll "18")
+      (Select "33 4 33 167")))
+  (MPSSessionName "Pizza")
   (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.6\tools\capture\library")
   (ISPCBBASICLICENSE "false"))

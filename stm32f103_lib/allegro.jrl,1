@@ -1,14 +1,160 @@
 \t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:00)     Journal start - Mon May 15 18:25:49 2023
-\t (00:00:00)         Host=DESKTOP-RFK85BK User=Pizza Pid=1968 CPUs=8
+\t (00:00:00)     Journal start - Tue May 16 14:13:55 2023
+\t (00:00:00)         Host=DESKTOP-RFK85BK User=Pizza Pid=11588 CPUs=8
 \t (00:00:00) 
 \t (00:00:00) Opening existing design...
-\d (00:00:00) Database opened: C:/Users/Pizza/Desktop/stm32pcb/stm32f103_lib/SOT23-3.dra
-\i (00:00:00) trapsize 891
-\i (00:00:00) trapsize 855
-\i (00:00:00) trapsize 895
-\i (00:00:00) trapsize 856
-\i (00:00:00) trapsize 856
-\i (00:00:00) generaledit 
-\i (00:00:02) exit 
-\t (00:00:02)     Journal end - Mon May 15 18:25:51 2023
+\d (00:00:00) Database opened: C:/Users/Pizza/Desktop/stm32pcb/stm32f103_lib/c7343.dra
+\i (00:00:00) trapsize 3373
+\i (00:00:00) trapsize 3297
+\i (00:00:00) trapsize 3386
+\i (00:00:00) trapsize 3386
+\i (00:00:01) generaledit 
+\i (00:00:01) zoom out 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom out 3.9781 8.3514
+\i (00:00:01) trapsize 6771
+\i (00:00:01) zoom in 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom in 3.9780 8.3514
+\i (00:00:01) trapsize 3386
+\i (00:00:02) zoom in 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom in 3.9780 8.3514
+\i (00:00:02) trapsize 1693
+\i (00:00:02) pick grid -0.1525 6.8956
+\t (00:00:02) last pick:  -0.1270  6.8580
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -0.1525 6.8956
+\i (00:00:03) trapsize 3386
+\i (00:00:04) drag_start grid -7.7364 14.1409
+\i (00:00:04) drag_stop 7.9729 5.0674
+\i (00:00:08) pick grid 10.6814 0.5306
+\t (00:00:08) last pick:  10.6680  0.5080
+\i (00:00:09) pick grid 5.1290 -1.0268
+\t (00:00:09) last pick:  5.0800  -1.0160
+\i (00:00:10) pick grid 6.9572 -0.6205
+\t (00:00:10) last pick:  6.9850  -0.6350
+\i (00:00:10) pick grid 7.2281 -0.5528
+\t (00:00:10) last pick:  7.2390  -0.5080
+\i (00:00:10) pick grid dbl 7.2281 -0.5528
+\t (00:00:10) last pick:  7.2390  -0.5080
+\i (00:00:11) pick grid 7.2281 -0.5528
+\t (00:00:11) last pick:  7.2390  -0.5080
+\i (00:00:11) pick grid 7.9052 -1.0268
+\t (00:00:11) last pick:  7.8740  -1.0160
+\i (00:00:20) pick grid -12.7472 4.5934
+\t (00:00:20) last pick:  -12.7000  4.5720
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out -12.6795 4.5934
+\i (00:00:20) trapsize 6771
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 2.3582 -10.5743
+\i (00:00:21) trapsize 3386
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 2.3582 -10.5742
+\i (00:00:21) trapsize 1693
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 2.3582 -10.5742
+\i (00:00:21) trapsize 846
+\i (00:00:22) pick grid 1.4948 -9.2537
+\t (00:00:22) last pick:  1.5240  -9.2710
+\i (00:00:22) pick grid 1.1562 -9.1014
+\t (00:00:22) last pick:  1.1430  -9.1440
+\i (00:00:22) pick grid dbl 1.1562 -9.1014
+\t (00:00:22) last pick:  1.1430  -9.1440
+\i (00:00:22) pick grid 1.1562 -9.1014
+\t (00:00:22) last pick:  1.1430  -9.1440
+\i (00:00:22) pick grid dbl 1.1562 -9.1014
+\t (00:00:22) last pick:  1.1430  -9.1440
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 1.1562 -9.1014
+\i (00:00:23) trapsize 1693
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 1.1563 -9.1014
+\i (00:00:23) trapsize 3386
+\i (00:00:25) add line 
+\i (00:00:27) pick grid -0.7397 6.0663
+\t (00:00:27) last pick:  -0.7620  6.0960
+\i (00:00:28) prepopup 9.4849 6.8112
+\i (00:00:29) cancel 
+\i (00:00:29) generaledit 
+\i (00:00:29) pick grid 9.4849 6.8112
+\t (00:00:29) last pick:  9.5250  6.8580
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 6.7087 4.4412
+\i (00:00:30) trapsize 6771
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 3.5767 -3.6843
+\i (00:00:30) trapsize 3386
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 3.6445 -3.6843
+\i (00:00:30) trapsize 1693
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 3.6445 -3.6843
+\i (00:00:30) trapsize 846
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 3.6953 -3.4811
+\i (00:00:31) trapsize 1693
+\i (00:00:31) pick grid 6.6408 -1.2127
+\t (00:00:31) last pick:  6.6040  -1.2700
+\i (00:00:32) pick grid 7.2502 -0.7726
+\t (00:00:32) last pick:  7.2390  -0.7620
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 7.1148 1.8682
+\i (00:00:33) trapsize 3386
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 6.3700 2.4099
+\i (00:00:33) trapsize 1693
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in -5.5475 -2.4315
+\i (00:00:38) trapsize 846
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out -5.4290 -2.3130
+\i (00:00:39) trapsize 1693
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out -5.3274 -1.8389
+\i (00:00:41) trapsize 3386
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in -5.3275 -1.8389
+\i (00:00:42) trapsize 1693
+\i (00:00:47) pick grid 2.0194 5.9142
+\t (00:00:47) last pick:  2.0320  5.9690
+\i (00:00:47) pick grid 2.0194 5.7788
+\t (00:00:47) last pick:  2.0320  5.8420
+\i (00:00:47) pick grid dbl 2.0194 5.7788
+\t (00:00:47) last pick:  2.0320  5.8420
+\i (00:00:48) pick grid 2.0194 5.7788
+\t (00:00:48) last pick:  2.0320  5.8420
+\i (00:00:48) pick grid 0.0558 1.8853
+\t (00:00:48) last pick:  0.0000  1.9050
+\i (00:00:49) pick grid -3.0929 -0.1122
+\t (00:00:49) last pick:  -3.0480  -0.1270
+\i (00:00:53) pick grid -3.7362 4.1875
+\t (00:00:53) last pick:  -3.6830  4.1910
+\i (00:00:57) setwindow form.mini
+\i (00:00:57) FORM mini subclass PART_DIMENSION 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) pick grid 1.2746 5.5079
+\t (00:00:58) last pick:  1.2700  5.4610
+\i (00:00:59) pick grid 2.3241 5.4402
+\t (00:00:59) last pick:  2.2860  5.4610
+\i (00:03:26) exit 
+\t (00:03:27)     Journal end - Tue May 16 14:17:21 2023

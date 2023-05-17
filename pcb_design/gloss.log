@@ -1,0 +1,1499 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Glossing                                                         )
+(                                                                     )
+(    Drawing          : stm32f103c8t6.brd                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed May 17 14:31:35 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+
+
+Via Eliminate glossing in progress.
+Started on Wed May 17 14:31:35 2023
+ with Parameters: 
+   Jog limit            : -1 
+   Used pin escapes        : YES 
+   Unused pin escapes      : YES 
+   Stand alone vias        : YES 
+   Regular through vias    : YES 
+   HDI Unused stacked vias : NO 
+
+
+Eliminations on net N14539 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N18980 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net PB1 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N07032 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net TXD :
+Through Via Candidates: 2, Eliminations: 1,  = 50 % Eliminated.
+
+Eliminations on net RXD :
+Through Via Candidates: 2, Eliminations: 1,  = 50 % Eliminated.
+
+Eliminations on net N06253 :
+Through Via Candidates: 2, Eliminations: 1,  = 50 % Eliminated.
+
+Eliminations on net SWCLK :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N19567 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N695410 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N04687 :
+Through Via Candidates: 6, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net PB2/BOOT1 :
+Through Via Candidates: 5, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net VCC3R3 :
+Through Via Candidates: 15, Eliminations: 0,  = 0 % Eliminated.
+Unused Pin Escape Candidates: 1, Eliminations: 1,  = 100 % Eliminated.
+
+Eliminations on net PB15 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net PB14 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net PB13 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net PB12 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net PA9/TXD1 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N14949 :
+Through Via Candidates: 6, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net VBAT :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net PC15 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net PB11 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net PB10 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net PA12 :
+Through Via Candidates: 5, Eliminations: 1,  = 20 % Eliminated.
+
+Eliminations on net PA11 :
+Through Via Candidates: 4, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N14868 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N14845 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net GND_EARTH :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net VCC5V :
+Through Via Candidates: 14, Eliminations: 0,  = 0 % Eliminated.
+Unused Pin Escape Candidates: 1, Eliminations: 1,  = 100 % Eliminated.
+
+Eliminations on net N14420 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N14326 :
+Through Via Candidates: 2, Eliminations: 1,  = 50 % Eliminated.
+
+Eliminations on net GND_POWER :
+Through Via Candidates: 25, Eliminations: 2,  = 8 % Eliminated.
+Unused Pin Escape Candidates: 3, Eliminations: 3,  = 100 % Eliminated.
+
+Eliminations on net N14247 :
+Through Via Candidates: 2, Eliminations: 1,  = 50 % Eliminated.
+
+Eliminations on net N14243 :
+Through Via Candidates: 2, Eliminations: 1,  = 50 % Eliminated.
+
+Eliminations on net N14239 :
+Through Via Candidates: 2, Eliminations: 1,  = 50 % Eliminated.
+
+Eliminations on net N14166 :
+Through Via Candidates: 5, Eliminations: 1,  = 20 % Eliminated.
+Unused Pin Escape Candidates: 1, Eliminations: 1,  = 100 % Eliminated.
+
+Eliminations on net N07083 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+Unused Pin Escape Candidates: 1, Eliminations: 1,  = 100 % Eliminated.
+
+Eliminations on net SWIO :
+Through Via Candidates: 2, Eliminations: 1,  = 50 % Eliminated.
+
+Eliminations on net PC13 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net BOOT0 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N40672 :
+Through Via Candidates: 2, Eliminations: 1,  = 50 % Eliminated.
+
+Eliminations on net REST :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+Unused Pin Escape Candidates: 2, Eliminations: 2,  = 100 % Eliminated.
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Wed May 17 14:31:35 2023
+
+
+Via Eliminate Total Stats:
+Total Through Via Candidates: 148, Eliminations: 13,  = 8 % Eliminated.
+Total Unused Pin Escape Candidates: 9, Eliminations: 9,  = 100 % Eliminated.
+Vias: Total Candidates = 157,  Total Eliminations = 22,  14 % Eliminatons.
+
+
+
+
+Line entry into Pad glossing in progress.
+Started on Wed May 17 14:31:35 2023
+Bend Distance is 12.00.
+
+ Circular pads:          YES
+ Square pads  :          YES
+ Rectangular pads :      YES
+ Oblong pads :           YES
+ Enter Square Pad :      Side : YES      Corner : YES  
+ Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
+ Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
+ Enter Circular Pad :    Angle : 45 OR 90
+ Create Odd Segs:   NO
+ Corner type  :     45
+ Maximum 45 limit is -1.
+
+Glossing attempt unsuccessful. Active pad is at (708.46,770.00).
+
+Glossing attempt unsuccessful. Active pad is at (1050.00,1325.00).
+
+Glossing was successful:  SYMBOL PIN at (1511.54,2870.00) defined by pad  R110_100
+
+Glossing was successful:  SYMBOL PIN at (1124.84,1869.65) defined by pad  SMD0150REC0030_S0012MM
+
+Glossing was successful:  SYMBOL PIN at (1579.92,1425.00) defined by pad  R467_168
+
+Glossing attempt unsuccessful. Active pad is at (1225.00,1725.00).
+
+Glossing was successful:  VIA at (1025.00,2050.00) defined by pad  VIA
+
+Glossing was successful:  SYMBOL PIN at (1660.00,3245.00) defined by pad  C1_8D1
+
+Glossing was successful:  VIA at (1453.00,2675.00) defined by pad  VIA
+
+Glossing was successful:  SYMBOL PIN at (1337.11,2721.65) defined by pad  SMD0200REC0060MM
+
+Glossing attempt unsuccessful. Active pad is at (682.60,3635.00).
+
+Glossing attempt unsuccessful. Active pad is at (1223.27,2200.35).
+
+Glossing was successful:  SYMBOL PIN at (1496.54,3930.00) defined by pad  R110_100
+
+Glossing attempt unsuccessful. Active pad is at (970.97,2821.65).
+
+Glossing attempt unsuccessful. Active pad is at (970.97,2671.65).
+
+Glossing was successful:  SYMBOL PIN at (949.65,1985.79) defined by pad  SMD0150REC0030_S0012MM
+
+Glossing was successful:  VIA at (1050.00,3050.00) defined by pad  VIA
+
+Glossing was successful:  VIA at (350.00,1575.00) defined by pad  VIA
+
+Glossing was successful:  VIA at (350.00,1575.00) defined by pad  VIA
+
+Glossing was successful:  SYMBOL PIN at (477.60,1595.00) defined by pad  R130_150
+
+Glossing was successful:  SYMBOL PIN at (470.00,2223.46) defined by pad  R110_100
+
+Glossing was successful:  SYMBOL PIN at (563.98,3500.00) defined by pad  S_REC75X54
+
+Glossing was successful:  SYMBOL PIN at (1240.00,3445.00) defined by pad  C1_8D1
+
+Glossing was successful:  SYMBOL PIN at (1240.00,3445.00) defined by pad  C1_8D1
+
+Glossing was successful:  VIA at (1425.00,3725.00) defined by pad  VIA
+
+Glossing attempt unsuccessful. Active pad is at (1666.54,2875.00).
+
+Glossing was successful:  SYMBOL PIN at (1582.60,2740.00) defined by pad  R130_150
+
+Glossing attempt unsuccessful. Active pad is at (1582.60,2740.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1375.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1275.00).
+
+Glossing was successful:  SYMBOL PIN at (937.80,1200.24) defined by pad  SMD0160REC0035MM
+
+Glossing was successful:  SYMBOL PIN at (2120.00,1175.00) defined by pad  C1_8D1
+
+Glossing attempt unsuccessful. Active pad is at (1000.00,900.00).
+
+Glossing attempt unsuccessful. Active pad is at (1014.57,979.76).
+
+Glossing attempt unsuccessful. Active pad is at (1014.57,979.76).
+
+Glossing attempt unsuccessful. Active pad is at (537.40,1395.00).
+
+Glossing attempt unsuccessful. Active pad is at (698.62,2095.00).
+
+Glossing was successful:  SYMBOL PIN at (620.00,2196.54) defined by pad  R110_100
+
+Glossing was successful:  SYMBOL PIN at (160.00,1775.00) defined by pad  C1_8D1
+
+Glossing was successful:  SYMBOL PIN at (1026.42,1869.65) defined by pad  SMD0150REC0030_S0012MM
+
+Glossing was successful:  SYMBOL PIN at (1006.73,1869.65) defined by pad  SMD0150REC0030_S0012MM
+
+Glossing was successful:  SYMBOL PIN at (160.00,2375.00) defined by pad  C1_8D1
+
+Glossing was successful:  SYMBOL PIN at (160.00,1175.00) defined by pad  C1_8D1
+
+Glossing was successful:  VIA at (1150.00,1725.00) defined by pad  VIA
+
+Glossing was successful:  SYMBOL PIN at (868.46,3755.00) defined by pad  R110_100
+
+Glossing attempt unsuccessful. Active pad is at (925.00,3750.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1975.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1975.00).
+
+Glossing was successful:  VIA at (650.00,3800.00) defined by pad  VIA
+
+Glossing was successful:  SYMBOL PIN at (1280.35,2064.53) defined by pad  SMD0150REC0030_S0012MM
+
+Glossing was successful:  SYMBOL PIN at (1156.54,645.00) defined by pad  R110_100
+
+Glossing was successful:  SYMBOL PIN at (937.80,979.76) defined by pad  SMD0160REC0035MM
+
+Glossing attempt unsuccessful. Active pad is at (875.00,1050.00).
+
+Glossing attempt unsuccessful. Active pad is at (750.00,1025.00).
+
+Glossing was successful:  SYMBOL PIN at (641.54,770.00) defined by pad  R110_100
+
+Glossing attempt unsuccessful. Active pad is at (637.40,1035.00).
+
+Glossing attempt unsuccessful. Active pad is at (1223.46,645.00).
+
+Glossing attempt unsuccessful. Active pad is at (1223.46,770.00).
+
+Glossing was successful:  SYMBOL PIN at (620.00,3998.39) defined by pad  SR0_4X1_6
+
+Glossing attempt unsuccessful. Active pad is at (594.41,3998.39).
+
+Glossing was successful:  SYMBOL PIN at (1717.95,3750.00) defined by pad  SMD0305REC0235MM
+
+Glossing was successful:  SYMBOL PIN at (530.00,3731.54) defined by pad  R110_100
+
+Glossing attempt unsuccessful. Active pad is at (475.00,1325.00).
+
+Glossing was successful:  SYMBOL PIN at (270.00,3625.00) defined by pad  C1_8D1
+
+Glossing attempt unsuccessful. Active pad is at (637.40,1250.00).
+
+Glossing attempt unsuccessful. Active pad is at (650.00,1325.00).
+
+Glossing was successful:  SYMBOL PIN at (835.43,1200.24) defined by pad  SMD0160REC0035MM
+
+Glossing attempt unsuccessful. Active pad is at (715.47,4018.86).
+
+Glossing attempt unsuccessful. Active pad is at (715.47,4018.86).
+
+Glossing attempt unsuccessful. Active pad is at (715.47,4018.86).
+
+Glossing attempt unsuccessful. Active pad is at (671.18,3998.39).
+
+Glossing was successful:  SYMBOL PIN at (645.59,3998.39) defined by pad  SR0_4X1_6
+
+Glossing was successful:  SYMBOL PIN at (1065.00,3707.95) defined by pad  SMD0305REC0235MM
+
+Glossing was successful:  SYMBOL PIN at (757.40,3635.00) defined by pad  R130_150
+
+Glossing attempt unsuccessful. Active pad is at (623.46,2355.00).
+
+Glossing attempt unsuccessful. Active pad is at (750.00,2275.00).
+
+Glossing was successful:  VIA at (1675.00,1575.00) defined by pad  VIA
+
+Glossing attempt unsuccessful. Active pad is at (893.46,1615.00).
+
+Glossing attempt unsuccessful. Active pad is at (1000.00,1625.00).
+
+Glossing was successful:  VIA at (797.00,2000.00) defined by pad  VIA
+
+Glossing attempt unsuccessful. Active pad is at (797.00,2000.00).
+
+Glossing attempt unsuccessful. Active pad is at (797.00,2000.00).
+
+Glossing attempt unsuccessful. Active pad is at (797.00,2000.00).
+
+Glossing was successful:  SYMBOL PIN at (949.65,2005.47) defined by pad  SMD0150REC0030_S0012MM
+
+Glossing attempt unsuccessful. Active pad is at (548.46,1753.62).
+
+Glossing was successful:  VIA at (475.00,1175.00) defined by pad  VIA
+
+Glossing was successful:  VIA at (475.00,1075.00) defined by pad  VIA
+
+Glossing attempt unsuccessful. Active pad is at (912.20,979.76).
+
+Glossing attempt unsuccessful. Active pad is at (809.84,979.76).
+
+Glossing attempt unsuccessful. Active pad is at (988.98,979.76).
+
+Glossing attempt unsuccessful. Active pad is at (1151.54,1640.00).
+
+Glossing attempt unsuccessful. Active pad is at (1050.00,1550.00).
+
+Glossing was successful:  SYMBOL PIN at (826.54,1615.00) defined by pad  R110_100
+
+Glossing was successful:  SYMBOL PIN at (949.65,2044.84) defined by pad  SMD0150REC0030_S0012MM
+
+Glossing was successful:  SYMBOL PIN at (949.65,2123.58) defined by pad  SMD0150REC0030_S0012MM
+
+Glossing was successful:  SYMBOL PIN at (1085.47,2200.35) defined by pad  SMD0150REC0030_S0012MM
+
+Glossing was successful:  SYMBOL PIN at (1760.00,861.54) defined by pad  R110_100
+
+Glossing was successful:  SYMBOL PIN at (1833.70,600.55) defined by pad  RE3X2
+
+Glossing was successful:  SYMBOL PIN at (556.54,2355.00) defined by pad  R110_100
+
+
+Finished execution 1
+
+Glossing attempt unsuccessful. Active pad is at (708.46,770.00).
+
+Glossing attempt unsuccessful. Active pad is at (1050.00,1325.00).
+
+Glossing attempt unsuccessful. Active pad is at (1225.00,1725.00).
+
+Glossing attempt unsuccessful. Active pad is at (682.60,3635.00).
+
+Glossing attempt unsuccessful. Active pad is at (1223.27,2200.35).
+
+Glossing attempt unsuccessful. Active pad is at (970.97,2821.65).
+
+Glossing attempt unsuccessful. Active pad is at (970.97,2671.65).
+
+Glossing attempt unsuccessful. Active pad is at (1666.54,2875.00).
+
+Glossing attempt unsuccessful. Active pad is at (1582.60,2740.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1375.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1275.00).
+
+Glossing attempt unsuccessful. Active pad is at (1000.00,900.00).
+
+Glossing attempt unsuccessful. Active pad is at (1014.57,979.76).
+
+Glossing attempt unsuccessful. Active pad is at (1014.57,979.76).
+
+Glossing attempt unsuccessful. Active pad is at (537.40,1395.00).
+
+Glossing attempt unsuccessful. Active pad is at (698.62,2095.00).
+
+Glossing attempt unsuccessful. Active pad is at (925.00,3750.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1975.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1975.00).
+
+Glossing attempt unsuccessful. Active pad is at (875.00,1050.00).
+
+Glossing attempt unsuccessful. Active pad is at (750.00,1025.00).
+
+Glossing attempt unsuccessful. Active pad is at (637.40,1035.00).
+
+Glossing attempt unsuccessful. Active pad is at (1223.46,645.00).
+
+Glossing attempt unsuccessful. Active pad is at (1223.46,770.00).
+
+Glossing attempt unsuccessful. Active pad is at (594.41,3998.39).
+
+Glossing attempt unsuccessful. Active pad is at (475.00,1325.00).
+
+Glossing attempt unsuccessful. Active pad is at (637.40,1250.00).
+
+Glossing attempt unsuccessful. Active pad is at (650.00,1325.00).
+
+Glossing attempt unsuccessful. Active pad is at (715.47,4018.86).
+
+Glossing attempt unsuccessful. Active pad is at (715.47,4018.86).
+
+Glossing attempt unsuccessful. Active pad is at (715.47,4018.86).
+
+Glossing attempt unsuccessful. Active pad is at (671.18,3998.39).
+
+Glossing attempt unsuccessful. Active pad is at (623.46,2355.00).
+
+Glossing attempt unsuccessful. Active pad is at (750.00,2275.00).
+
+Glossing attempt unsuccessful. Active pad is at (893.46,1615.00).
+
+Glossing attempt unsuccessful. Active pad is at (1000.00,1625.00).
+
+Glossing attempt unsuccessful. Active pad is at (797.00,2000.00).
+
+Glossing attempt unsuccessful. Active pad is at (797.00,2000.00).
+
+Glossing attempt unsuccessful. Active pad is at (797.00,2000.00).
+
+Glossing attempt unsuccessful. Active pad is at (548.46,1753.62).
+
+Glossing attempt unsuccessful. Active pad is at (912.20,979.76).
+
+Glossing attempt unsuccessful. Active pad is at (809.84,979.76).
+
+Glossing attempt unsuccessful. Active pad is at (988.98,979.76).
+
+Glossing attempt unsuccessful. Active pad is at (1151.54,1640.00).
+
+Glossing attempt unsuccessful. Active pad is at (1050.00,1550.00).
+
+
+Finished execution 2
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Wed May 17 14:31:35 2023
+
+
+Line Entry Into Pad Glossings Stats
+
+Number of Glossing Attempts                   : 144
+Number of Actual Glossings                    : 54
+Number of Glossings Aborted by DRC violations : 0
+
+
+
+
+Line Smooth glossing in progress.
+Started on Wed May 17 14:31:35 2023
+
+ Smooth Functions  :  bubbles maximize 45 jogs dangling clines add 45s
+ Number of executions  : 1
+ Corner type  : 45
+ Length limit is -0.01.
+
+ Maximum 45 limit is -0.01.
+
+
+Elapsed time:  0 hr 0 min 1 sec ( 0.00 hr)
+Actual time of completion: Wed May 17 14:31:36 2023
+
+ - 0 - Error(s) from Line smooth Glossing
+
+
+Line Centering Between Pins glossing in progress.
+Started on Wed May 17 14:31:36 2023
+
+Minimum Move Size 2.00.
+Line spacing MINIMUM
+Pad Tolerance 100.00.
+Corner type 45
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Wed May 17 14:31:36 2023
+
+
+
+Line Center Between Pins Stats
+
+Number of Glossing Attempts                   : 334
+Number of Actual Glossings                    : 3
+Number of Glossings Aborted by DRC violations : 0
+Number of Glossings Aborted by No-Gloss nets  : 0
+
+
+
+Line entry into Pad glossing in progress.
+Started on Wed May 17 14:31:36 2023
+Bend Distance is 12.00.
+
+ Circular pads:          YES
+ Square pads  :          YES
+ Rectangular pads :      YES
+ Oblong pads :           YES
+ Enter Square Pad :      Side : YES      Corner : YES  
+ Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
+ Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
+ Enter Circular Pad :    Angle : 45 OR 90
+ Create Odd Segs:   NO
+ Corner type  :     45
+ Maximum 45 limit is -1.
+
+Glossing attempt unsuccessful. Active pad is at (708.46,770.00).
+
+Glossing attempt unsuccessful. Active pad is at (1050.00,1325.00).
+
+Glossing was successful:  VIA at (1225.00,1725.00) defined by pad  VIA
+
+Glossing was successful:  VIA at (1025.00,2050.00) defined by pad  VIA
+
+Glossing was successful:  VIA at (1453.00,2675.00) defined by pad  VIA
+
+Glossing was successful:  SYMBOL PIN at (1337.11,2721.65) defined by pad  SMD0200REC0060MM
+
+Glossing attempt unsuccessful. Active pad is at (682.60,3635.00).
+
+Glossing attempt unsuccessful. Active pad is at (1475.00,2200.00).
+
+Glossing was successful:  SYMBOL PIN at (1496.54,3930.00) defined by pad  R110_100
+
+Glossing attempt unsuccessful. Active pad is at (970.97,2821.65).
+
+Glossing was successful:  SYMBOL PIN at (700.00,2756.54) defined by pad  R110_100
+
+Glossing attempt unsuccessful. Active pad is at (970.97,2671.65).
+
+Glossing was successful:  SYMBOL PIN at (949.65,1985.79) defined by pad  SMD0150REC0030_S0012MM
+
+Glossing attempt unsuccessful. Active pad is at (655.00,1480.00).
+
+Glossing was successful:  SYMBOL PIN at (552.40,1595.00) defined by pad  R130_150
+
+Glossing was successful:  SYMBOL PIN at (1203.58,2200.35) defined by pad  SMD0150REC0030_S0012MM
+
+Glossing was successful:  SYMBOL PIN at (2120.00,2275.00) defined by pad  C1_8D1
+
+Glossing was successful:  VIA at (1050.00,3050.00) defined by pad  VIA
+
+Glossing attempt unsuccessful. Active pad is at (350.00,1575.00).
+
+Glossing attempt unsuccessful. Active pad is at (470.00,2223.46).
+
+Glossing attempt unsuccessful. Active pad is at (575.00,2100.00).
+
+Glossing was successful:  VIA at (1500.00,2725.00) defined by pad  VIA
+
+Glossing was successful:  SYMBOL PIN at (193.46,3780.00) defined by pad  R110_100
+
+Glossing was successful:  SYMBOL PIN at (563.98,3500.00) defined by pad  S_REC75X54
+
+Glossing was successful:  SYMBOL PIN at (563.98,3500.00) defined by pad  S_REC75X54
+
+Glossing was successful:  SYMBOL PIN at (1563.46,3930.00) defined by pad  R110_100
+
+Glossing was successful:  SYMBOL PIN at (1717.95,4040.00) defined by pad  SMD0305REC0235MM
+
+Glossing was successful:  VIA at (1425.00,3725.00) defined by pad  VIA
+
+Glossing attempt unsuccessful. Active pad is at (1666.54,2875.00).
+
+Glossing attempt unsuccessful. Active pad is at (1582.60,2740.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1375.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1275.00).
+
+Glossing was successful:  SYMBOL PIN at (852.60,690.00) defined by pad  R130_150
+
+Glossing attempt unsuccessful. Active pad is at (1000.00,900.00).
+
+Glossing was successful:  SYMBOL PIN at (1014.57,979.76) defined by pad  SMD0160REC0035MM
+
+Glossing was successful:  VIA at (625.00,1400.00) defined by pad  VIA
+
+Glossing attempt unsuccessful. Active pad is at (698.62,2095.00).
+
+Glossing was successful:  SYMBOL PIN at (620.00,2196.54) defined by pad  R110_100
+
+Glossing was successful:  SYMBOL PIN at (160.00,1675.00) defined by pad  C1_8D1
+
+Glossing was successful:  SYMBOL PIN at (160.00,1775.00) defined by pad  C1_8D1
+
+Glossing was successful:  SYMBOL PIN at (1026.42,1869.65) defined by pad  SMD0150REC0030_S0012MM
+
+Glossing was successful:  SYMBOL PIN at (160.00,1175.00) defined by pad  C1_8D1
+
+Glossing attempt unsuccessful. Active pad is at (1150.00,1725.00).
+
+Glossing was successful:  VIA at (1000.00,1675.00) defined by pad  VIA
+
+Glossing attempt unsuccessful. Active pad is at (925.00,3750.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1975.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1975.00).
+
+Glossing was successful:  SYMBOL PIN at (658.46,3895.00) defined by pad  R110_100
+
+Glossing was successful:  VIA at (1200.00,2075.00) defined by pad  VIA
+
+Glossing was successful:  SYMBOL PIN at (1156.54,645.00) defined by pad  R110_100
+
+Glossing attempt unsuccessful. Active pad is at (950.00,1075.00).
+
+Glossing attempt unsuccessful. Active pad is at (875.00,1050.00).
+
+Glossing attempt unsuccessful. Active pad is at (750.00,1025.00).
+
+Glossing was successful:  SYMBOL PIN at (533.46,760.00) defined by pad  R110_100
+
+Glossing was successful:  SYMBOL PIN at (641.54,770.00) defined by pad  R110_100
+
+Glossing attempt unsuccessful. Active pad is at (637.40,1035.00).
+
+Glossing attempt unsuccessful. Active pad is at (1223.46,645.00).
+
+Glossing attempt unsuccessful. Active pad is at (1223.46,770.00).
+
+Glossing was successful:  SYMBOL PIN at (705.00,958.46) defined by pad  R110_100
+
+Glossing was successful:  SYMBOL PIN at (963.39,1200.24) defined by pad  SMD0160REC0035MM
+
+Glossing attempt unsuccessful. Active pad is at (594.41,3998.39).
+
+Glossing was successful:  SYMBOL PIN at (1717.95,3750.00) defined by pad  SMD0305REC0235MM
+
+Glossing was successful:  SYMBOL PIN at (1065.00,3952.05) defined by pad  SMD0305REC0235MM
+
+Glossing was successful:  VIA at (725.00,3800.00) defined by pad  VIA
+
+Glossing was successful:  SYMBOL PIN at (420.00,3781.54) defined by pad  R110_100
+
+Glossing attempt unsuccessful. Active pad is at (475.00,1325.00).
+
+Glossing was successful:  SYMBOL PIN at (271.54,3470.00) defined by pad  R110_100
+
+Glossing attempt unsuccessful. Active pad is at (271.54,3470.00).
+
+Glossing attempt unsuccessful. Active pad is at (650.00,1325.00).
+
+Glossing attempt unsuccessful. Active pad is at (650.00,1325.00).
+
+Glossing attempt unsuccessful. Active pad is at (825.00,1100.00).
+
+Glossing attempt unsuccessful. Active pad is at (850.00,825.00).
+
+Glossing was successful:  SYMBOL PIN at (126.54,3970.00) defined by pad  R110_100
+
+Glossing was successful:  SYMBOL PIN at (330.00,3843.46) defined by pad  R110_100
+
+Glossing was successful:  SYMBOL PIN at (330.00,3843.46) defined by pad  R110_100
+
+Glossing attempt unsuccessful. Active pad is at (715.47,4018.86).
+
+Glossing attempt unsuccessful. Active pad is at (715.47,4018.86).
+
+Glossing attempt unsuccessful. Active pad is at (715.47,4018.86).
+
+Glossing attempt unsuccessful. Active pad is at (671.18,3998.39).
+
+Glossing was successful:  SYMBOL PIN at (757.40,3635.00) defined by pad  R130_150
+
+Glossing attempt unsuccessful. Active pad is at (623.46,2355.00).
+
+Glossing attempt unsuccessful. Active pad is at (623.46,2355.00).
+
+Glossing attempt unsuccessful. Active pad is at (750.00,2275.00).
+
+Glossing was successful:  SYMBOL PIN at (1588.46,1640.00) defined by pad  R110_100
+
+Glossing attempt unsuccessful. Active pad is at (1000.00,1625.00).
+
+Glossing attempt unsuccessful. Active pad is at (797.00,2000.00).
+
+Glossing attempt unsuccessful. Active pad is at (797.00,2000.00).
+
+Glossing attempt unsuccessful. Active pad is at (797.00,2000.00).
+
+Glossing was successful:  VIA at (995.00,1480.00) defined by pad  VIA
+
+Glossing was successful:  VIA at (750.00,2050.00) defined by pad  VIA
+
+Glossing attempt unsuccessful. Active pad is at (650.00,1750.00).
+
+Glossing attempt unsuccessful. Active pad is at (900.00,850.00).
+
+Glossing attempt unsuccessful. Active pad is at (925.00,900.00).
+
+Glossing was successful:  VIA at (800.00,875.00) defined by pad  VIA
+
+Glossing attempt unsuccessful. Active pad is at (1000.00,1075.00).
+
+Glossing was successful:  SYMBOL PIN at (1040.16,979.76) defined by pad  SMD0160REC0035MM
+
+Glossing attempt unsuccessful. Active pad is at (1151.54,1640.00).
+
+Glossing was successful:  SYMBOL PIN at (1151.54,1640.00) defined by pad  R110_100
+
+Glossing attempt unsuccessful. Active pad is at (700.00,1600.00).
+
+Glossing attempt unsuccessful. Active pad is at (949.65,2123.58).
+
+Glossing attempt unsuccessful. Active pad is at (160.00,2675.00).
+
+Glossing was successful:  SYMBOL PIN at (126.54,3780.00) defined by pad  R110_100
+
+Glossing attempt unsuccessful. Active pad is at (1100.00,2350.00).
+
+Glossing attempt unsuccessful. Active pad is at (568.82,3998.39).
+
+Glossing was successful:  SYMBOL PIN at (1833.70,600.55) defined by pad  RE3X2
+
+Glossing was successful:  SYMBOL PIN at (470.00,2156.54) defined by pad  R110_100
+
+
+Finished execution 1
+
+Glossing attempt unsuccessful. Active pad is at (708.46,770.00).
+
+Glossing attempt unsuccessful. Active pad is at (1050.00,1325.00).
+
+Glossing attempt unsuccessful. Active pad is at (682.60,3635.00).
+
+Glossing attempt unsuccessful. Active pad is at (1475.00,2200.00).
+
+Glossing attempt unsuccessful. Active pad is at (970.97,2821.65).
+
+Glossing attempt unsuccessful. Active pad is at (970.97,2671.65).
+
+Glossing attempt unsuccessful. Active pad is at (655.00,1480.00).
+
+Glossing attempt unsuccessful. Active pad is at (350.00,1575.00).
+
+Glossing attempt unsuccessful. Active pad is at (470.00,2223.46).
+
+Glossing attempt unsuccessful. Active pad is at (575.00,2100.00).
+
+Glossing attempt unsuccessful. Active pad is at (1666.54,2875.00).
+
+Glossing attempt unsuccessful. Active pad is at (1582.60,2740.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1375.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1275.00).
+
+Glossing attempt unsuccessful. Active pad is at (1000.00,900.00).
+
+Glossing attempt unsuccessful. Active pad is at (698.62,2095.00).
+
+Glossing attempt unsuccessful. Active pad is at (1150.00,1725.00).
+
+Glossing attempt unsuccessful. Active pad is at (925.00,3750.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1975.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1975.00).
+
+Glossing attempt unsuccessful. Active pad is at (950.00,1075.00).
+
+Glossing attempt unsuccessful. Active pad is at (875.00,1050.00).
+
+Glossing attempt unsuccessful. Active pad is at (750.00,1025.00).
+
+Glossing attempt unsuccessful. Active pad is at (637.40,1035.00).
+
+Glossing attempt unsuccessful. Active pad is at (1223.46,645.00).
+
+Glossing attempt unsuccessful. Active pad is at (1223.46,770.00).
+
+Glossing attempt unsuccessful. Active pad is at (594.41,3998.39).
+
+Glossing attempt unsuccessful. Active pad is at (475.00,1325.00).
+
+Glossing attempt unsuccessful. Active pad is at (271.54,3470.00).
+
+Glossing attempt unsuccessful. Active pad is at (650.00,1325.00).
+
+Glossing attempt unsuccessful. Active pad is at (650.00,1325.00).
+
+Glossing attempt unsuccessful. Active pad is at (825.00,1100.00).
+
+Glossing attempt unsuccessful. Active pad is at (850.00,825.00).
+
+Glossing attempt unsuccessful. Active pad is at (715.47,4018.86).
+
+Glossing attempt unsuccessful. Active pad is at (715.47,4018.86).
+
+Glossing attempt unsuccessful. Active pad is at (715.47,4018.86).
+
+Glossing attempt unsuccessful. Active pad is at (671.18,3998.39).
+
+Glossing attempt unsuccessful. Active pad is at (623.46,2355.00).
+
+Glossing attempt unsuccessful. Active pad is at (623.46,2355.00).
+
+Glossing attempt unsuccessful. Active pad is at (750.00,2275.00).
+
+Glossing attempt unsuccessful. Active pad is at (1000.00,1625.00).
+
+Glossing attempt unsuccessful. Active pad is at (797.00,2000.00).
+
+Glossing attempt unsuccessful. Active pad is at (797.00,2000.00).
+
+Glossing attempt unsuccessful. Active pad is at (797.00,2000.00).
+
+Glossing attempt unsuccessful. Active pad is at (650.00,1750.00).
+
+Glossing attempt unsuccessful. Active pad is at (900.00,850.00).
+
+Glossing attempt unsuccessful. Active pad is at (925.00,900.00).
+
+Glossing attempt unsuccessful. Active pad is at (1000.00,1075.00).
+
+Glossing was successful:  SYMBOL PIN at (1151.54,1640.00) defined by pad  R110_100
+
+Glossing attempt unsuccessful. Active pad is at (700.00,1600.00).
+
+Glossing attempt unsuccessful. Active pad is at (949.65,2123.58).
+
+Glossing attempt unsuccessful. Active pad is at (160.00,2675.00).
+
+Glossing attempt unsuccessful. Active pad is at (1100.00,2350.00).
+
+Glossing attempt unsuccessful. Active pad is at (568.82,3998.39).
+
+
+Finished execution 2
+
+Glossing attempt unsuccessful. Active pad is at (708.46,770.00).
+
+Glossing attempt unsuccessful. Active pad is at (1050.00,1325.00).
+
+Glossing attempt unsuccessful. Active pad is at (682.60,3635.00).
+
+Glossing attempt unsuccessful. Active pad is at (1475.00,2200.00).
+
+Glossing attempt unsuccessful. Active pad is at (970.97,2821.65).
+
+Glossing attempt unsuccessful. Active pad is at (970.97,2671.65).
+
+Glossing attempt unsuccessful. Active pad is at (655.00,1480.00).
+
+Glossing attempt unsuccessful. Active pad is at (350.00,1575.00).
+
+Glossing attempt unsuccessful. Active pad is at (470.00,2223.46).
+
+Glossing attempt unsuccessful. Active pad is at (575.00,2100.00).
+
+Glossing attempt unsuccessful. Active pad is at (1666.54,2875.00).
+
+Glossing attempt unsuccessful. Active pad is at (1582.60,2740.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1375.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1275.00).
+
+Glossing attempt unsuccessful. Active pad is at (1000.00,900.00).
+
+Glossing attempt unsuccessful. Active pad is at (698.62,2095.00).
+
+Glossing attempt unsuccessful. Active pad is at (1150.00,1725.00).
+
+Glossing attempt unsuccessful. Active pad is at (925.00,3750.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1975.00).
+
+Glossing attempt unsuccessful. Active pad is at (2120.00,1975.00).
+
+Glossing attempt unsuccessful. Active pad is at (950.00,1075.00).
+
+Glossing attempt unsuccessful. Active pad is at (875.00,1050.00).
+
+Glossing attempt unsuccessful. Active pad is at (750.00,1025.00).
+
+Glossing attempt unsuccessful. Active pad is at (637.40,1035.00).
+
+Glossing attempt unsuccessful. Active pad is at (1223.46,645.00).
+
+Glossing attempt unsuccessful. Active pad is at (1223.46,770.00).
+
+Glossing attempt unsuccessful. Active pad is at (594.41,3998.39).
+
+Glossing attempt unsuccessful. Active pad is at (475.00,1325.00).
+
+Glossing attempt unsuccessful. Active pad is at (271.54,3470.00).
+
+Glossing attempt unsuccessful. Active pad is at (650.00,1325.00).
+
+Glossing attempt unsuccessful. Active pad is at (650.00,1325.00).
+
+Glossing attempt unsuccessful. Active pad is at (825.00,1100.00).
+
+Glossing attempt unsuccessful. Active pad is at (850.00,825.00).
+
+Glossing attempt unsuccessful. Active pad is at (715.47,4018.86).
+
+Glossing attempt unsuccessful. Active pad is at (715.47,4018.86).
+
+Glossing attempt unsuccessful. Active pad is at (715.47,4018.86).
+
+Glossing attempt unsuccessful. Active pad is at (671.18,3998.39).
+
+Glossing attempt unsuccessful. Active pad is at (623.46,2355.00).
+
+Glossing attempt unsuccessful. Active pad is at (623.46,2355.00).
+
+Glossing attempt unsuccessful. Active pad is at (750.00,2275.00).
+
+Glossing attempt unsuccessful. Active pad is at (1000.00,1625.00).
+
+Glossing attempt unsuccessful. Active pad is at (797.00,2000.00).
+
+Glossing attempt unsuccessful. Active pad is at (797.00,2000.00).
+
+Glossing attempt unsuccessful. Active pad is at (797.00,2000.00).
+
+Glossing attempt unsuccessful. Active pad is at (650.00,1750.00).
+
+Glossing attempt unsuccessful. Active pad is at (900.00,850.00).
+
+Glossing attempt unsuccessful. Active pad is at (925.00,900.00).
+
+Glossing attempt unsuccessful. Active pad is at (1000.00,1075.00).
+
+Glossing attempt unsuccessful. Active pad is at (700.00,1600.00).
+
+Glossing attempt unsuccessful. Active pad is at (949.65,2123.58).
+
+Glossing attempt unsuccessful. Active pad is at (160.00,2675.00).
+
+Glossing attempt unsuccessful. Active pad is at (1100.00,2350.00).
+
+Glossing attempt unsuccessful. Active pad is at (568.82,3998.39).
+
+
+Finished execution 3
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Wed May 17 14:31:36 2023
+
+
+Line Entry Into Pad Glossings Stats
+
+Number of Glossing Attempts                   : 213
+Number of Actual Glossings                    : 53
+Number of Glossings Aborted by DRC violations : 0
+
+
+
+
+Pad and T Fillet glossing in progress.
+Started on Wed May 17 14:31:36 2023
+
+ Round pads:          YES   max size: 100.00
+ Square pads:         YES   max size: 100.00
+ Rectangular pads:    YES   max size: 100.00
+ Oblong pads:         YES   max size: 100.00
+ Octagon pads:        YES   max size: 100.00
+ Pads as shapes:      NO 
+ Pins:                YES
+ Vias:                YES
+ Bond Fingers:        NO 
+ Ts:                  YES
+ Unused nets:         YES
+ Pads Without Drills: YES
+ Desired Pin Angle:       90
+ Desired Via Angle:       90
+ Desired T Angle:         90
+ Maximum Pin Angle:       90
+ Maximum Via Angle:       90
+ Maximum T Angle:         90
+ Pin Maximum offset:      25.00
+ Via Maximum offset:      25.00
+ T Maximum offset:        25.00
+ Pin minimum line width:  3.00
+ Via minimum line width:  3.00
+ T minimum line width:    3.00
+ Pin maximum line width:  25.00
+ Via maximum line width:  25.00
+ T maximum line width:    25.00
+ Tapers:                  NO 
+ Desired Taper Angle:     60
+ Taper Maximum offset:    25.00
+ Allow drc:           NO 
+ Dynamic:             NO 
+ Curved lines:        NO 
+
+*WARNING: Can't create fillet at pad (705.00 891.54) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (1050.00 1325.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (1218.46 1640.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (949.65 2064.53) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (1337.11 2671.65) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (748.46 2495.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (1183.90 2200.35) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (1144.53 1869.65) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (1578.46 2870.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (1582.60 2740.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (1280.35 1966.10) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (1280.35 1926.73) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (1280.35 2044.84) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (1280.35 2005.47) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (1014.57 979.76) on subclass TOP.
+          Line width exceeds (unrotated) width of destination pad.
+
+*WARNING: Can't create fillet at pad (1250.00 1075.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1250.00 1075.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1300.00 1250.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1300.00 1250.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1175.00 1250.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1175.00 1250.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (625.00 1400.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (625.00 1400.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (537.40 1395.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (1065.79 2200.35) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (1124.84 2200.35) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (1144.53 2200.35) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (450.00 3450.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (450.00 3450.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (949.65 2143.27) on subclass TOP.
+          Line width exceeds (unrotated) height of destination pad.
+
+*WARNING: Can't create fillet at pad (875.00 2250.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (875.00 2250.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (875.00 2850.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (875.00 2850.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (745.00 2196.54) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (949.65 2103.90) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (620.00 2196.54) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (1065.79 1869.65) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (1026.42 1869.65) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (949.65 1946.42) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (1105.16 1869.65) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (1164.21 1869.65) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (658.46 3895.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (1280.35 2064.53) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (1280.35 2064.53) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (1156.54 770.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't fillet T at (637.40 1100.00) on subclass TOP.
+          The fillet does not fit.
+
+*WARNING: Can't create fillet at pad (625.00 1100.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (533.46 760.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (641.54 770.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (705.00 958.46) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (791.54 3855.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (475.00 1325.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (475.00 1325.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (475.00 1325.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (350.00 2425.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (350.00 2425.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (350.00 2575.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (350.00 2575.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (400.00 3325.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (400.00 3325.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (271.54 3470.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (650.00 1325.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (650.00 1325.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (650.00 1325.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1100.00 1275.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1100.00 1275.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1375.00 1275.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1375.00 1275.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1400.00 1125.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1400.00 1125.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1525.00 1125.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1525.00 1125.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (850.00 825.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (850.00 825.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (835.43 979.76) on subclass TOP.
+          Line width exceeds (unrotated) width of destination pad.
+
+*WARNING: Can't create fillet at pad (330.00 3843.46) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (381.14 3931.14) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (381.14 3931.14) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (645.59 3998.39) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1657.40 2740.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (1475.00 2625.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1475.00 2625.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1150.00 2625.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1150.00 2625.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1050.00 2625.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1050.00 2625.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (925.00 2400.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (925.00 2400.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (825.00 2475.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (825.00 2475.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (620.00 2263.46) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (750.00 2275.00) on subclass BOTTOM.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (450.00 2475.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (450.00 2475.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (575.00 2525.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (575.00 2525.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (575.00 2525.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1026.42 2200.35) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (1014.57 1200.24) on subclass TOP.
+          Line width exceeds (unrotated) width of destination pad.
+
+*WARNING: Can't create fillet at pad (1675.00 1575.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1675.00 1575.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1675.00 1575.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1000.00 1625.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1000.00 1625.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1000.00 1625.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (1000.00 1625.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (797.00 2000.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (949.65 2005.47) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (995.00 1480.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (995.00 1480.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1464.72 1010.28) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1464.72 1010.28) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (750.00 2050.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1203.58 1869.65) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (1280.35 2123.58) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't fillet T at (1530.31 912.40) on subclass TOP.
+          The 2 line segments must be same width.
+
+*WARNING: Can't create fillet at pad (900.00 850.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (900.00 850.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (886.61 979.76) on subclass TOP.
+          Line width exceeds (unrotated) width of destination pad.
+
+*WARNING: Can't create fillet at pad (925.00 900.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1025.00 825.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1025.00 825.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (963.39 979.76) on subclass TOP.
+          Line width exceeds (unrotated) width of destination pad.
+
+*WARNING: Can't create fillet at pad (425.00 925.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (425.00 925.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (425.00 925.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (800.00 875.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (800.00 875.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (800.00 875.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (809.84 979.76) on subclass TOP.
+          Line width exceeds (unrotated) width of destination pad.
+
+*WARNING: Can't create fillet at pad (1000.00 1075.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1000.00 1075.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (988.98 979.76) on subclass TOP.
+          Line width exceeds (unrotated) width of destination pad.
+
+*WARNING: Can't create fillet at pad (1156.54 915.22) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1040.16 979.76) on subclass TOP.
+          Line width exceeds (unrotated) width of destination pad.
+
+*WARNING: Can't create fillet at pad (1125.00 975.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (1125.00 975.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't fillet T at (1154.57 915.22) on subclass TOP.
+          The 2 line segments must be same width.
+
+*WARNING: Can't create fillet at pad (1151.54 1640.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (1280.35 2103.90) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (949.65 2123.58) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (1085.47 2200.35) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (500.00 3925.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (500.00 3925.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (568.82 3998.39) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (949.65 2025.16) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (470.00 2156.54) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (470.00 2156.54) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+
+
+
+Total number of fillets added: 463
+
+Number of fillets rejected due to DRC errors: 27
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Wed May 17 14:31:36 2023
+
+
+There were 149 errors or warnings reported in logfile.
+
+
+Glossing complete.

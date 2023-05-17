@@ -1,0 +1,15 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    PLCTXT Log                                                       )
+(                                                                     )
+(    Drawing          : stm32f103c8t6.brd                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed May 17 18:46:46 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Create a placement by text file: Stm32StepMotor.txt
+
+ Successfully processed 66 placed components

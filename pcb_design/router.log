@@ -1,0 +1,16 @@
+
+---------------------------------------------------------------------------
+BOARD: C:/Users/Pizza/Desktop/stm32pcb/pcb_design/stm32f103c8t6.brd ROUTER: 10-0-25 of 10-Nov-94
+DATE: Wed May 17 14:31:35 2023        HOST: DESKTOP-RFK85BK
+---------------------------------------------------------------------------
+Cnt St-ex Router      Att  Inv Miss Com% Drcs Vias   Etch  Cpu exec  Cpu Tot
+--------- ------    ----- ---- ---- ---- ---- ---- ------  -------- --------
+  Start    ----       182    2    0  98%    5  157   124.0  0:10:54  0:10:54
+
+---------------------------------------------------------------------------
+BOARD: C:/Users/Pizza/Desktop/stm32pcb/pcb_design/stm32f103c8t6.brd ROUTER: 10-0-25 of 10-Nov-94
+DATE: Wed May 17 14:31:36 2023        HOST: DESKTOP-RFK85BK
+---------------------------------------------------------------------------
+Cnt St-ex Router      Att  Inv Miss Com% Drcs Vias   Etch  Cpu exec  Cpu Tot
+--------- ------    ----- ---- ---- ---- ---- ---- ------  -------- --------
+  Start    ----       182    0    0 100%    0  135   122.0  0:10:55  0:10:55

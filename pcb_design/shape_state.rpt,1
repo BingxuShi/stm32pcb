@@ -1,0 +1,20 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dynamic Shape Status                                             )
+(                                                                     )
+(    Drawing          : stm32f103c8t6.brd                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed May 17 16:31:25 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Dynamic shapes out of date: 2 out of 3
+  Current fill mode         : ROUGH
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+       State: No Etch      Point on shape: (2283.14 58.74)  Net: GND
+       State: No Etch      Point on shape: (2283.14 58.74)  Net: GND

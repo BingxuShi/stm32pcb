@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : stm32f103c8t6.brd                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed May 17 15:43:58 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 2
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (2212.58 4054.06)  Net: GND
+	Point on shape: (2212.58 4054.06)  Net: GND

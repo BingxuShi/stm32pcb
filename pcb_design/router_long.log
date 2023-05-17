@@ -1,0 +1,188 @@
+
+*********************************************************************
+                         ROUTER-LOG
+*********************************************************************
+
+NEW ROUTE on C:/Users/Pizza/Desktop/stm32pcb/pcb_design/stm32f103c8t6.brd
+Started on   Wed May 17 14:31:35 2023
+
+---------------------------------------------------------------------
+Statistics at the Start of the Route:
+----------------------------
+
+    Board Statistics:
+    -----------------
+        Components:  Placed 66  Unplaced 0  Total 66
+        Nets:  W/Rats 75  No/Rats 0  Total 77
+        Pins:  W/Rats 258  No/Rats 1  Unused 4  Unplaced 0  Total 263
+        Equivalent ICs (1 pin = 1/14 EIC)  18
+        Router Keepin (in) (-0.0003,-0.0003) by (2.2832,4.2517)
+        Board area (sq in)  9.7
+        Board density (sq in/EIC) 0.517
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                182           0          182
+        Already Connected          182           0          182
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Manh Distance (inches)     124.63
+        Etch Length (inches)       124.13        0.00       124.13
+        Number of vias		   157           0          157
+        Vias per Connection          0.86        0.00         0.86
+        Smd pins with attached clines                       196
+
+
+
+---------------------------------------------------------------------
+General Routing Parameters
+--------------------------
+
+    Checkpoint at:  Last step 1:  Last execution 1
+    Overwrite router.log
+    Auto Save ON
+    Dynamic Control OFF
+    Direct Path Router OFF
+    Component Orientation  HORIZONTAL
+    Order Connections Short First
+    Max net priority 0
+    Corner type: 45
+    Side Entry ALLOWED
+    DO NOT FORCE to Pin Escape
+    Ripup/Cleanup Pin Escapes OFF
+    Via Preference OFF
+
+
+---------------------------------------------------------------------
+Layers and Drc Rules
+--------------------
+
+    Subclass                          Spacing       Line Width
+    Idx Name                Dir   ll    lv    vv    Def   Neck    Via    Max45
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     1  TOP                  H  8.00  8.00  8.00  10.00 10.00   24.00  25.00
+        X grids:     25.00  Offset: 0.00
+        Y grids:     25.00  Offset: 0.00
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     2  BOTTOM               V  8.00  8.00  8.00  10.00 10.00   24.00  25.00
+        X grids:     25.00  Offset: 0.00
+        Y grids:     25.00  Offset: 0.00
+
+    ATTEMPTS: 4 this step: 0 skips:  
+    count_invalid 2 in 0  0:0:0 hours
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                182           0          182
+        Already Connected          182           0          182
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Etch Length (inches)       124.13        0.00       124.13
+        Number of vias		   135           0          135
+        Vias per Connection          0.74        0.00         0.74
+        Smd pins with attached clines                       196
+
+
+
+    Total cpu time - 0:10:55 hours
+    Total elapsed time - 2574:24:9 hours
+    Invalid Count Time: 0 0:0:0 hours
+    Route ended on  Wed May 17 14:31:35 2023
+
+*********************************************************************
+                         ROUTER-LOG
+*********************************************************************
+
+NEW ROUTE on C:/Users/Pizza/Desktop/stm32pcb/pcb_design/stm32f103c8t6.brd
+Started on   Wed May 17 14:31:36 2023
+
+---------------------------------------------------------------------
+Statistics at the Start of the Route:
+----------------------------
+
+    Board Statistics:
+    -----------------
+        Components:  Placed 66  Unplaced 0  Total 66
+        Nets:  W/Rats 75  No/Rats 0  Total 77
+        Pins:  W/Rats 258  No/Rats 1  Unused 4  Unplaced 0  Total 263
+        Equivalent ICs (1 pin = 1/14 EIC)  18
+        Router Keepin (in) (-0.0003,-0.0003) by (2.2832,4.2517)
+        Board area (sq in)  9.7
+        Board density (sq in/EIC) 0.517
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                182           0          182
+        Already Connected          182           0          182
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Manh Distance (inches)     124.63
+        Etch Length (inches)       122.12        0.00       122.12
+        Number of vias		   135           0          135
+        Vias per Connection          0.74        0.00         0.74
+        Smd pins with attached clines                       196
+
+
+
+---------------------------------------------------------------------
+General Routing Parameters
+--------------------------
+
+    Checkpoint at:  Last step 1:  Last execution 1
+    Overwrite router.log
+    Auto Save ON
+    Dynamic Control OFF
+    Direct Path Router OFF
+    Component Orientation  HORIZONTAL
+    Order Connections Short First
+    Max net priority 0
+    Corner type: 45
+    Side Entry ALLOWED
+    DO NOT FORCE to Pin Escape
+    Ripup/Cleanup Pin Escapes OFF
+    Via Preference OFF
+
+
+---------------------------------------------------------------------
+Layers and Drc Rules
+--------------------
+
+    Subclass                          Spacing       Line Width
+    Idx Name                Dir   ll    lv    vv    Def   Neck    Via    Max45
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     1  TOP                  H  8.00  8.00  8.00  10.00 10.00   24.00  25.00
+        X grids:     25.00  Offset: 0.00
+        Y grids:     25.00  Offset: 0.00
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     2  BOTTOM               V  8.00  8.00  8.00  10.00 10.00   24.00  25.00
+        X grids:     25.00  Offset: 0.00
+        Y grids:     25.00  Offset: 0.00
+
+    ATTEMPTS: 0 this step: 0 skips:  
+    count_invalid 0 in 0  0:0:0 hours
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                182           0          182
+        Already Connected          182           0          182
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Etch Length (inches)       122.29        0.00       122.29
+        Number of vias		   135           0          135
+        Vias per Connection          0.74        0.00         0.74
+        Smd pins with attached clines                       196
+
+
+
+    Total cpu time - 0:10:55 hours
+    Total elapsed time - 2574:24:10 hours
+    Invalid Count Time: 0 0:0:0 hours
+    Route ended on  Wed May 17 14:31:36 2023

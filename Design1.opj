@@ -195,19 +195,19 @@
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\mylib.olb")
       (Path "Outputs")
-      (Select "Design Resources" ".\design1.dsn" "SCHEMATIC1" "STM32F103C8T6"))
+      (Select "Design Resources" ".\design1.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 640"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 640"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1198 52 503")
-        (Scroll "29 256")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1198 52 503")
+        (Scroll "2052 1852")
+        (Zoom "212")
         (Occurrence "/"))
       (Path "C:\USERS\PIZZA\DESKTOP\STM32PCB\DESIGN1.DSN")
       (Schematic "SCHEMATIC1")

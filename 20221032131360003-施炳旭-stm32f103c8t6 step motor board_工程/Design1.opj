@@ -206,8 +206,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1198 52 503")
-        (Scroll "2052 1852")
-        (Zoom "212")
+        (Scroll "-111 0")
+        (Zoom "53")
         (Occurrence "/"))
       (Path "C:\USERS\PIZZA\DESKTOP\STM32PCB\DESIGN1.DSN")
       (Schematic "SCHEMATIC1")
